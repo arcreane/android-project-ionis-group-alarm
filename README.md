@@ -5,6 +5,9 @@
 ### Aleksei Shmakov, Timofey Karpeev, Aleksandr Blokhin, Corneliu Ciugurean, Rayan Tlati
 
 App logic - Rayan + Timofey
+
 Backend - Aleksei
+
 Frontend - Aleksandr
+
 Design + unit tests - Corneliu
