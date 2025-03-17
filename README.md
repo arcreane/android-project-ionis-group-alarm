@@ -3,3 +3,8 @@
 # IONIS-GROUP-alarm final project, Android development course, Spring 2025
 
 ### Aleksei Shmakov, Timofey Karpeev, Aleksandr Blokhin, Corneliu Ciugurean, Rayan Tlati
+
+App logic - Rayan + Timofey
+Backend - Aleksei
+Frontend - Aleksandr
+Design + unit tests - Corneliu
